@@ -58,6 +58,10 @@ git log --pretty=oneline : 格式化log形式，每条log只有一行，只包�
 
 git reset --hard commitId: 版本切换
 
+git reset --hard v1.0.11
+
+git reset --hard HEAD 切换到最新版
+
 ### 版本回退
 
 git reset --hard HEAD^
